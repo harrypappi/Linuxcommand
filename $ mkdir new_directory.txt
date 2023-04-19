@@ -1,0 +1,5 @@
+$ mkdir new_directory
+
+Hari@MSI MINGW64 ~
+$
+
